@@ -10,10 +10,5 @@ The why to our project is best explained by Martin Karplus:
 ## How do we plan to solve this? 
 Previously we have implemented programs to identify structurally conserved subdomains using datasets, that can be used to model the rigid and flexible regions. In this project we work out a prototype function to assess how the more flexible parts correspond to the different possible conformations of the structures.  We end up with a program framework that can be easily modified to consider different methods to evaluate the relationships between the local rigidity/flexibility and the molecular conformations. With future software experiments we can use this framework to search for the most effective methods to provide important insights. 
 
-## What is FlexonReader?
-   > It is a good idea to have a visual representation of workflow 
-## How to use FlexonReader 
-### Installation:
 
-## Testing 
 
